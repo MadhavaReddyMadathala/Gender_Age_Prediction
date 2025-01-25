@@ -8,7 +8,7 @@
 
 ## 📦 Requirements  
 - Python 3.8+  
-- 📚 Libraries: TensorFlow/PyTorch, OpenCV, NumPy  
+- 📚 Libraries: TensorFlow/PyTorch,NumPy  
 
 Install with:  
 ```bash  
